@@ -8,7 +8,7 @@ class Complex{
             a=n1;
             b=n2;
         }
-        //defining friend function 
+        //defining friend function ""
         //can be invoked without help of any object
         friend Complex sumComplex(Complex o1,Complex o2);
         void printNumber(){
