@@ -14,5 +14,7 @@ public class ElectionHopes
 		else{
 		    System.out.println("No");
 		}
+        sc.close();
 	}
+    
 }
