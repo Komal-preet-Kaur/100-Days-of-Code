@@ -11,6 +11,6 @@ public class std1 {
         System.out.println(b);
         System.out.println(c);;
         
-        
+        scan.close(); 
     }
 }
