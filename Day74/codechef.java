@@ -1,10 +1,7 @@
-import java.util.*;
-import java.lang.*;
-import java.io.*;
-
+import java.util.Scanner;
 class Codechef
 {
-	public static void main (String[] args) throws java.lang.Exception
+	public static void main (String[] args) 
 	{
 		Scanner sc=new Scanner(System.in);
 		int n=sc.nextInt();
@@ -17,5 +14,7 @@ class Codechef
 		else{
 		    System.out.println("More");
 		}
+		sc.close();
 	}
+
 }
