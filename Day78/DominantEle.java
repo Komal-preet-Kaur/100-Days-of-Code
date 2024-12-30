@@ -1,7 +1,7 @@
 package Day78;
 import java.util.Scanner;
 
-class Codechef
+public class DominantEle
 {
 	public static void main (String[] args) 
 	{
@@ -39,5 +39,6 @@ class Codechef
                 System.out.println("No");
             }
 	    }
+        sc.close();
 	}
 }
