@@ -5,7 +5,7 @@ class Head {
         int t = sc.nextInt();  
         sc.nextLine();  
         while (t-- > 0) {
-            int n = sc.nextInt();  
+              
             sc.nextLine();  
             String str = sc.nextLine();  
             
