@@ -39,5 +39,6 @@ class Codechef {
                 System.out.println("No");
             }
         }
+        sc.close();
     }
 }
