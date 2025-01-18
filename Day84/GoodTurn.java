@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Codechef
+class GoodTurn
 {
 	public static void main (String[] args)
 	{

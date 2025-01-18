@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Codechef {
+class Candies {
     public static void main(String[] args) throws java.lang.Exception {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt(); 
